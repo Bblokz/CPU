@@ -56,7 +56,7 @@ struct opcodeIdentifier {
     {
         if( funct3 == 9)
         {
-            return "nope"
+            return "nope";
         }
         else
         {
